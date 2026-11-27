@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.lyricsmove/lyricsmove",
+  "title": "LyricsMove",
+  "description": "Browse lyric video styles, 9 AI music video looks, pricing, and direct Suno/MP3 studio links.",
+  "version": "1.0.0",
+  "websiteUrl": "https://lyricsmove.com/docs/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://lyricsmove.com/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/lyricsmove/lyricsmove-mcp",
+    "source": "github"
+  }
+}

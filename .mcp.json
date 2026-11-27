@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lyricsmove": {
+      "type": "http",
+      "url": "https://lyricsmove.com/mcp"
+    }
+  }
+}

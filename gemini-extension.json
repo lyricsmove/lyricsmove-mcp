@@ -1,0 +1,11 @@
+{
+  "name": "lyricsmove-mcp",
+  "version": "1.0.0",
+  "description": "Browse animated lyric video styles, 9 AI music video looks, pricing, and direct Suno/MP3 studio links.",
+  "mcpServers": {
+    "lyricsmove": {
+      "type": "http",
+      "url": "https://lyricsmove.com/mcp"
+    }
+  }
+}

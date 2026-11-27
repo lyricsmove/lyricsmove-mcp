@@ -1,0 +1,27 @@
+{
+  "name": "lyricsmove-mcp",
+  "version": "1.0.0",
+  "description": "Browse animated lyric video styles, 9 AI music video looks, pricing, and direct Suno/MP3 studio links.",
+  "author": {
+    "name": "LyricsMove",
+    "url": "https://lyricsmove.com"
+  },
+  "homepage": "https://lyricsmove.com/docs/mcp",
+  "repository": "https://github.com/lyricsmove/lyricsmove-mcp",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "lyric-video",
+    "ai-music-video",
+    "suno",
+    "mp3-to-video",
+    "skills",
+    "claude-code",
+    "cursor"
+  ],
+  "skills": [
+    "./skills"
+  ],
+  "mcpServers": "./.mcp.json"
+}
