@@ -3,7 +3,7 @@
   "name": "com.lyricsmove/lyricsmove",
   "title": "LyricsMove",
   "description": "Browse lyric video styles, 9 AI music video looks, pricing, and direct Suno/MP3 studio links.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://lyricsmove.com/docs/mcp",
   "remotes": [
     {
@@ -14,5 +14,28 @@
   "repository": {
     "url": "https://github.com/lyricsmove/lyricsmove-mcp",
     "source": "github"
-  }
+  },
+  "icons": [
+    {
+      "src": "https://lyricsmove.com/icon-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://lyricsmove.com/icon-192.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "192x192"
+      ]
+    },
+    {
+      "src": "https://lyricsmove.com/icon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ]
 }
